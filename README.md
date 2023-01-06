@@ -1,2 +1,1 @@
 # minigrep-rust
-# minigrep-rust
